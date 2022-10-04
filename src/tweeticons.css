@@ -1,0 +1,13 @@
+.tweeticons {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  color: var(--twitter-color);
+  margin-right: 10px;
+}
+
+.tweeticons:hover {
+  padding: 5px 5px;
+  background-color: #d8feff;
+  border-radius: 30px;
+}

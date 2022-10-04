@@ -1,0 +1,28 @@
+.trending {
+  margin-left: 23px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.trending__header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.trending__header > p {
+  margin-bottom: 10px;
+  font-weight: 300;
+  font-size: 25x;
+  color: gray;
+}
+
+.trending > h4 {
+  margin-bottom: 8px;
+}
+
+.trending__more:hover {
+  border: 1px solid none;
+  border-radius: 50px;
+  color: aqua;
+  background-color: grey;
+}

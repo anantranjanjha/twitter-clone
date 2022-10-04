@@ -1,0 +1,42 @@
+.people {
+  margin-left: 23px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.people:hover {
+  cursor: pointer;
+}
+
+.people__btn {
+  background-color: black !important;
+  border: none !important;
+  color: white !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  border-radius: 30px !important;
+  width: 90px;
+  height: 35px !important;
+  margin-left: auto !important;
+}
+
+.people__userName {
+  font-weight: 600;
+  font-size: 12px;
+  color: gray;
+  margin-left: 3px;
+}
+
+.people__avatar {
+  margin-right: 10px;
+}
+
+.people__details > h4 {
+  font-weight: 600;
+}
+
+.people__details > h4:hover {
+  font-weight: 600;
+  text-decoration: underline;
+}
