@@ -36,8 +36,8 @@ function Widgets() {
             <div className='widget__bottom'>
                 <h2>Who to follow</h2>
                 <People name="Anant Kumar" userId="jhaanant9" />
-                <People name="Nishant Pandey" userId="pandeyjikabeta" />
-                <People name="Prkhr Gai" userId="gaynhigai" />
+                <People name="Nishant Pandey" userId="pandeyji" />
+                <People name="Gai Shukla" userId="gaiya" />
             </div>
         </div>
     )
